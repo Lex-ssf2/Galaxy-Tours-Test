@@ -1,15 +1,15 @@
 {
-	"Info": {
-		"Type":"Stage",
-		"Version": "1.3.1.0",
-		"Creators":"McleodGaming",	
-	},
-	"Stage": {
-		"StageName:":"Galaxy Tours", //Idk if im doing this line right
-		"GUID":"f1eb7f31-1535-4d79-9419-0e904de27eaf",				
-		"Image":true,		//If your mod will have a image preview
-		"displayName":"Me gustan las milanesas", 	//Name that will be shown in the game preview
-		"fileName":"galaxytours_test.ssf",		//ex. Blue_BattleField.ssf
-		"description": "lorem ipsum or something like that \n a /n q ñ"
-	}
+   "Info":{
+      "Type":"Stage",
+      "Version":"1.3.1.0",
+      "Creators":"McleodGaming"
+   },
+   "Stage":{
+      "StageName:":"Galaxy Tours",
+      "GUID":"f1eb7f31-1535-4d79-9419-0e904de27eaf",
+      "Image":true,
+      "displayName":"Me gustan las milanesas",
+      "fileName":"galaxytours_test.ssf",
+      "description":"lorem ipsum or something like that"
+   }
 }
